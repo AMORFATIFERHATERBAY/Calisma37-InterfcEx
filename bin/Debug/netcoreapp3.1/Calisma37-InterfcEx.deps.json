@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calisma37-InterfcEx/1.0.0": {
+        "runtime": {
+          "Calisma37-InterfcEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calisma37-InterfcEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
